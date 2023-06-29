@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://www.geeksforcode.com/](https://www.geeksforcode.com/)
 
-- 💬 Ask me about **Angular, Node.js and JavaScript.**
+- 💬 Ask me about **Angular, React.js, Node.js and JavaScript.**
 
 - 📫 How to reach me **aman.giri0104@gmail.com**
 
